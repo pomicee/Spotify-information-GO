@@ -181,7 +181,7 @@ Response:
 
 1. Start the server:
 ```bash
-go run main.go
+go run spotify.go
 ```
 
 2. The server will start on port 8080:
